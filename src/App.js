@@ -1,24 +1,55 @@
-import logo from './logo.svg';
 import './App.css';
+import {
+  Navbar,
+  Container,
+  Nav
+} from 'react-bootstrap';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
+import HomePage from "./components/pages/HomePage.js"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="">
+        <Navbar bg="dark" variant="dark">
+          <Container>
+            <Navbar.Brand as={Link} to="/">
+              <img
+                alt=""
+                src="./fishing.svg"
+                width="30"
+                height="30"
+                className="d-inline-block align-top"
+              />{' '}
+              a<span style={{ color: "#41e0fd" }}>fishing</span>store
+            </Navbar.Brand>
+            <Nav className="me-auto">
+              <Nav.Link as={Link} to="/">Home</Nav.Link>
+              <Nav.Link as={Link} to="/products">Products</Nav.Link>
+              <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
+            </Nav>
+          </Container>
+        </Navbar>
+        {/* A <Switch> looks through its children <Route>s and
+            renders the first one that matches the current URL. */}
+        <Switch>
+          <Route path="/products">
+            {/* <About /> */}
+          </Route>
+          <Route path="/contact">
+            {/* <Users /> */}
+          </Route>
+          <Route path="/">
+            <HomePage />
+          </Route>
+        </Switch>
+      </div>
+    </Router>
   );
 }
 

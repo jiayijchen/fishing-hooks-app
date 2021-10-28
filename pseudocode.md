@@ -17,6 +17,11 @@ Create and design a online store for a fishing supply company.
 - User remains logged in after leaving website and returning (timeout?)
 - Cart resets after user checks out
 
+## moscow
+Could Have's
+- Google Image api calls for images
+- Google translate api calls for latin text
+
 ## Requirements
 ### for all paths
 - use react hooks

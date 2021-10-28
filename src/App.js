@@ -12,7 +12,8 @@ import {
   Link
 } from "react-router-dom";
 import HomePage from "./pages/HomePage.js";
-import ProductsPage from "./pages/ProductsPage.js";
+import ProductsListingPage from "./pages/ProductsListingPage.js";
+import ProductPage from "./pages/ProductPage.js";
 
 function App() {
   const [productsData, setProductsData] = useState({});
@@ -48,7 +49,7 @@ function App() {
                         a<span style={{ color: "#41e0fd" }}>fishing</span>store
                     </Navbar.Brand> */}
           <Nav className="me-auto">
-            <Nav.Link as={Link} to="/home">Home</Nav.Link>
+            <Nav.Link as={Link} to="/" exact>Home</Nav.Link>
             <Nav.Link as={Link} to="/products">Products</Nav.Link>
             <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
           </Nav>
@@ -56,12 +57,15 @@ function App() {
       </Navbar>
       <Switch>
         <Route path="/products">
-          <ProductsPage products={productsData}/>
+          <ProductsListingPage products={productsData} />
+        </Route>
+        <Route path="/products/:id">
+          <ProductPage products={productsData} />
         </Route>
         <Route path="/contact">
           {/* <Users /> */}
         </Route>
-        <Route path="/home">
+        <Route path="/">
           <HomePage />
         </Route>
       </Switch>

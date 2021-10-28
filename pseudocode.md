@@ -33,8 +33,10 @@ Could Have's
 
 ### Components
 - App
-- HomePage
-- ProductsPage
+  - HomePage
+  - ProductsPage
+    - ProductCard
+      - ProductPage
 - CartPage
 - CheckoutPage
 

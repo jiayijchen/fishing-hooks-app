@@ -20,7 +20,7 @@ export default function ProductPage(props) {
   }
 
   return (
-    <Container fluid className="font-2 mt-3 mx-0">
+    <Container fluid className="font-2 mx-0 bg-dark vh-100">
       <Button onClick={handleBack} variant="link">Back to Products</Button>
       <Card className="">
         <Row>

@@ -56,7 +56,7 @@ function App() {
   return (
     <Router>
       <Navbar bg="dark" variant="dark">
-        {/* <Navbar.Brand as={Link} to="/">
+        <Navbar.Brand as={Link} to="/">
             <img
               alt=""
               src="./fishing.svg"
@@ -65,7 +65,7 @@ function App() {
               className="d-inline-block align-top"
             />{' '}
             a<span style={{ color: "#41e0fd" }}>fishing</span>store
-          </Navbar.Brand> */}
+          </Navbar.Brand>
         <Nav className="me-auto font-2">
           <Nav.Link as={Link} to="/" exact>Home</Nav.Link>
           <Nav.Link as={Link} to="/products" exact>Products</Nav.Link>

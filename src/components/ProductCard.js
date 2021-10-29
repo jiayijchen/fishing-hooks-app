@@ -8,14 +8,17 @@ import {
 } from "react-router-dom";
 
 // Image Choices
+// ***
 // "https://source.unsplash.com/random/200x200?sig=" + props.data.id
-// props.data.image
-// 
+// props.product.image
+// props.product.image.slice(0,52) + props.product.name.split(' ').join('+')
+// ***
+
 export default function ProductCard(props) {
   return (
     <Col sm={6} className="px-3 mb-4">
       <Card border="dark" className="h-100 rounded-3">
-        <Card.Img variant="top" src={props.product.image.slice(0,52) + props.product.name.split(' ').join('+')} />
+        <Card.Img variant="top" src={"https://source.unsplash.com/random/200x200?sig=" + props.product.id} />
         <Card.Body className="p-2">
           <Col xs={12}>
             <Card.Title 

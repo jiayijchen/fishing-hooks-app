@@ -1,0 +1,522 @@
+[
+  {
+    "id": 1,
+    "name": "Whopper Plopper",
+    "description": "Amet ad in quis rerum ut at eveniet et quidem ut et corrupti quisquam sit est et praesentium similique.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/00ccff?text=tool+odit",
+    "price": 358,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 2,
+    "name": "Spin Jig",
+    "description": "Voluptatem et rerum voluptas accusamus cum ex ipsum in omnis et pariatur ipsa cupiditate harum consectetur asperiores.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/004444?text=tool+et",
+    "price": 254,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 3,
+    "name": "Jiggin' Spoon",
+    "description": "Pariatur fugit vero expedita repellat et enim optio quisquam praesentium non ad possimus dolorem odit dolores laudantium labore.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/0000aa?text=tool+ab",
+    "price": 189,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 4,
+    "name": "Big Fishing Pole",
+    "description": "Dicta provident soluta sint esse sapiente qui quaerat.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/00ee66?text=tool+eum",
+    "price": 35,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 5,
+    "name": "Medium Fishing Pole",
+    "description": "Quos omnis sunt quaerat doloremque minima veritatis ut vitae explicabo minima officia unde quisquam eveniet est et soluta eos.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/000022?text=tool+est",
+    "price": 44,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 6,
+    "name": "Small Fishing Pole",
+    "description": "Quam sed mollitia accusantium necessitatibus odio qui ut dolores quo atque voluptas non natus repellendus tempora ducimus natus modi dolorem sint nobis.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/0033dd?text=tool+aspernatur",
+    "price": 294,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 7,
+    "name": "Just a Giant Stick",
+    "description": "Itaque exercitationem sit ut sed ea voluptatum tempora laudantium beatae corporis ducimus consequatur ut earum aperiam aut dolorem in laborum nihil eum officiis minus quis eos impedit est.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/00cc88?text=tool+a",
+    "price": 65,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 8,
+    "name": "I dunno, some rocks?",
+    "description": "Vel omnis nisi nostrum omnis.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/00bb11?text=tool+incidunt",
+    "price": 272,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 9,
+    "name": "Tackle Box (empty)",
+    "description": "Molestiae sed aut omnis non nulla voluptatem sit optio numquam ullam quos ducimus qui totam officiis tempore et illo voluptatem labore in laborum quia.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/00cccc?text=tool+delectus",
+    "price": 215,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 10,
+    "name": "Tackle Box (suprise inside)",
+    "description": "Sed maxime iusto omnis dolor qui impedit in error molestias quia culpa ut sint qui aliquid dolores numquam quisquam dolore ipsam commodi sed non reprehenderit dicta ut doloribus provident.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/0044bb?text=tool+dignissimos",
+    "price": 238,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 11,
+    "name": "Big Boat",
+    "description": "Voluptatibus expedita sit molestiae pariatur sequi suscipit eligendi tenetur omnis voluptatem doloremque sunt et error est doloribus autem nobis modi qui enim.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/00aa00?text=tool+esse",
+    "price": 186,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 12,
+    "name": "Lil Boat",
+    "description": "Iure et fuga vel ut in quasi laudantium sed repudiandae quibusdam dolor adipisci sit molestiae animi.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/005511?text=tool+quidem",
+    "price": 277,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 13,
+    "name": "Fancy Reel",
+    "description": "Similique doloribus voluptas sint et dicta iure non id et dolores magni et eos quia vitae nihil molestiae est.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/00dd77?text=tool+porro",
+    "price": 281,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 14,
+    "name": "Broken Reel",
+    "description": "Blanditiis esse est dolorem aut cumque sunt incidunt vel quae minima.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/0044aa?text=tool+cumque",
+    "price": 55,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 15,
+    "name": "Golden Reel",
+    "description": "Ut molestiae voluptatem qui sunt cumque aliquid quia optio.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/009955?text=tool+quaerat",
+    "price": 123,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 16,
+    "name": "Average Knife",
+    "description": "Sapiente ea velit ab modi officiis ullam ad veritatis doloremque maxime saepe voluptatem tempora quia deleniti quia.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/0066bb?text=tool+ut",
+    "price": 70,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 17,
+    "name": "Hardcore Knife",
+    "description": "Minima est earum itaque ut voluptas.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/0000dd?text=tool+aspernatur",
+    "price": 32,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 18,
+    "name": "Canoe",
+    "description": "Et velit quasi sit molestias et vero sunt recusandae consectetur iure dolor praesentium error cupiditate ut voluptatum.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/00bbaa?text=tool+accusamus",
+    "price": 318,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 19,
+    "name": "Bass Boat Xtreme",
+    "description": "Qui quo est ullam consequatur et distinctio et ut commodi sequi voluptas est ullam et mollitia ut at voluptate illum quibusdam aperiam sit dicta id possimus non vitae.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/002255?text=tool+nobis",
+    "price": 30,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 20,
+    "name": "Gun",
+    "description": "Mollitia repudiandae placeat sit praesentium voluptatibus illum voluptatibus rerum doloremque doloremque quia ut ad.",
+    "type": "tool",
+    "image": "https://via.placeholder.com/800x600.png/003388?text=tool+sit",
+    "price": 41,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 21,
+    "name": "Live Crickets",
+    "description": "Quas nulla illo distinctio sed dolor.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/00aa88?text=fish+voluptatem",
+    "price": 13,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 22,
+    "name": "Slimy Worms",
+    "description": "Eum aliquam beatae ipsa non ab ullam tempora quam sint provident quia iste autem error labore ipsum et sed delectus.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/001188?text=fish+aperiam",
+    "price": 44,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 23,
+    "name": "Not So Slimy Worms",
+    "description": "Cupiditate libero temporibus fuga est est dolor veritatis doloremque at asperiores.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/0099ff?text=fish+et",
+    "price": 44,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 24,
+    "name": "White Crab Meat",
+    "description": "Sed totam repellat nulla aspernatur consequatur fugiat aspernatur doloribus corporis magnam placeat dicta et enim consequuntur corporis recusandae nobis reprehenderit atque a consequatur deserunt architecto cum rerum repudiandae.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/00dd44?text=fish+dolor",
+    "price": 139,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 25,
+    "name": "Spool of Yarn Fishing Line (100 yds)",
+    "description": "Et et labore molestiae eum numquam dolorem quaerat aperiam veritatis sit id perspiciatis enim quia dolores ducimus est voluptatibus magnam repellat.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/00ffaa?text=fish+fugit",
+    "price": 71,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 26,
+    "name": "Spool of Yarn Fishing Line (1000 yds)",
+    "description": "Delectus molestiae laborum aut distinctio quia deserunt facere exercitationem omnis itaque sit sequi sit nobis minima consequatur iste sunt quisquam labore architecto quasi id repellat.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/00ff11?text=fish+reprehenderit",
+    "price": 40,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 27,
+    "name": "Spool of Nylon Fishing Line (100 yds)",
+    "description": "Quos sunt molestias doloribus incidunt nihil eum qui nulla voluptatibus sapiente ipsum ea reprehenderit ut corporis distinctio quisquam architecto officia autem aut commodi non maiores.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/0044dd?text=fish+excepturi",
+    "price": 114,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 28,
+    "name": "Spool of Nylon Fishing Line (1000 yds)",
+    "description": "Id et quam et rerum eos sed quae et ratione.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/005588?text=fish+necessitatibus",
+    "price": 140,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 29,
+    "name": "Spool of Fiberglass Fishing Line (100 yds)",
+    "description": "Sunt vel corporis iste et et quis eligendi quisquam quia non.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/008888?text=fish+culpa",
+    "price": 116,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 30,
+    "name": "Spool of Fiberglass Fishing Line (1000 yds)",
+    "description": "Distinctio harum dolorum quia quas quidem unde ad vel nihil qui magni distinctio numquam ut ut rerum consectetur est quia nobis hic iste necessitatibus aliquid dolores quibusdam adipisci et cupiditate.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/00eecc?text=fish+sit",
+    "price": 17,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 31,
+    "name": "Spool of Metal Fishing Line (100 yds)",
+    "description": "Eum quia dolor culpa et velit ut illum quo ut.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/008888?text=fish+veritatis",
+    "price": 30,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 32,
+    "name": "Spool of Metal Fishing Line (1000 yds)",
+    "description": "Ipsum autem quaerat autem harum ea cumque sed aut sunt quod nobis sapiente qui rerum facilis reprehenderit ullam dolore vel possimus eum et nesciunt veritatis ipsam.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/000077?text=fish+explicabo",
+    "price": 146,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 33,
+    "name": "Box of Lures (100)",
+    "description": "Nobis repellendus omnis ut quas recusandae quam eaque aliquid dolores repudiandae dolorem omnis ut.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/0022cc?text=fish+labore",
+    "price": 59,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 34,
+    "name": "Single Lure",
+    "description": "Ut laboriosam ad cupiditate iure tempora aut perspiciatis quae quos dolores consequatur quia qui incidunt magnam sint repudiandae ipsum enim ut maiores laboriosam at quia deserunt ducimus esse blanditiis laboriosam.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/00bb22?text=fish+nihil",
+    "price": 26,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 35,
+    "name": "Hard Bait Lure",
+    "description": "Tempore explicabo animi optio quis ullam veritatis distinctio aut accusamus et dolorem et blanditiis consequatur quasi consectetur nostrum et fuga culpa cum voluptates debitis quas sit quas autem.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/002211?text=fish+distinctio",
+    "price": 21,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 36,
+    "name": "Soft Bait Lure",
+    "description": "Occaecati pariatur ipsa repellat eum tempora sunt quod est autem impedit sapiente consequatur a facilis odio sint ullam omnis voluptatem eaque hic commodi perspiciatis aliquid.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/0033cc?text=fish+est",
+    "price": 95,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 37,
+    "name": "Nightcrawlers",
+    "description": "Neque quia laborum et nihil tenetur et qui delectus aperiam nostrum iste repudiandae nostrum eos doloremque sapiente tempore fugiat et.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/005533?text=fish+perferendis",
+    "price": 13,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 38,
+    "name": "Sweet Corn",
+    "description": "Dolorum sunt voluptatibus qui voluptas debitis ad rerum in molestiae voluptatem culpa perferendis eum.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/00ee11?text=fish+aspernatur",
+    "price": 17,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 39,
+    "name": "Ultimate Bait Xtreme",
+    "description": "Ut eligendi commodi dolorum asperiores vel nulla optio ipsa provident beatae in reprehenderit ut sunt odit.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/0055aa?text=fish+corrupti",
+    "price": 26,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 40,
+    "name": "Small Sinker",
+    "description": "Aut consequatur et soluta omnis dolore esse dignissimos.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/0088ee?text=fish+ut",
+    "price": 135,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 41,
+    "name": "10LB Sinker (for whales only)",
+    "description": "Et nemo aut aliquam ut tempore architecto laudantium aut sint voluptas iste delectus in culpa non eaque qui quas voluptatem velit corporis ut consequuntur et delectus.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/00ff88?text=fish+numquam",
+    "price": 110,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 42,
+    "name": "Medium Sinker",
+    "description": "Voluptate nesciunt molestiae sapiente dolorem est quo animi.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/000044?text=fish+veniam",
+    "price": 28,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 43,
+    "name": "A... turtle?",
+    "description": "Aut qui voluptatum sit nihil omnis quis nobis.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/001122?text=fish+qui",
+    "price": 137,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 44,
+    "name": "Mystery Creature Loot Box!",
+    "description": "In voluptatibus est nisi et impedit.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/00dd55?text=fish+at",
+    "price": 3,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 45,
+    "name": "Tackle Bag",
+    "description": "Dolor rerum quia labore sint harum quod eum animi qui eveniet perspiciatis totam aut vel rerum vitae aliquam et autem nobis officia sit provident voluptatum quia.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/005522?text=fish+quas",
+    "price": 75,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 46,
+    "name": "Assorted Lures",
+    "description": "Sed sequi iusto est et aut veritatis doloremque atque ea delectus pariatur deleniti quos sunt aut dolorum consequuntur aut dignissimos aspernatur aut nemo in et.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/003344?text=fish+fuga",
+    "price": 53,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 47,
+    "name": "Assorted Tackle",
+    "description": "Quibusdam odio sint velit natus aliquam qui maiores expedita asperiores recusandae culpa quis dolores et debitis quae ut qui reiciendis voluptatibus at ratione corporis ipsa.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/0099aa?text=fish+et",
+    "price": 126,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 48,
+    "name": "Assorted Bait",
+    "description": "Velit quia cum et iusto illum rem aut deserunt modi voluptatem nesciunt qui rerum doloribus aut maxime facere ut atque est facilis quasi pariatur ipsam enim cumque quis placeat.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/003366?text=fish+minus",
+    "price": 68,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 49,
+    "name": "Boots",
+    "description": "Ea dolore voluptas vel id quia commodi aspernatur et earum recusandae expedita aspernatur beatae nihil molestiae.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/0000ee?text=fish+voluptatum",
+    "price": 61,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 50,
+    "name": "Pair of Beat Up Oakleys",
+    "description": "Cumque velit nemo qui nobis nulla.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/0044dd?text=fish+optio",
+    "price": 155,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 51,
+    "name": "Camo Hat with Orange Brim",
+    "description": "Nisi numquam ad rerum a corporis quae animi aperiam.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/001100?text=fish+recusandae",
+    "price": 98,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  },
+  {
+    "id": 52,
+    "name": "Kentucky Smallmouth Bass (pre fished, on ice)",
+    "description": "Nostrum possimus necessitatibus saepe temporibus neque accusamus aut totam aut consequatur id aut ad placeat quia delectus voluptates rerum est et maiores id dolores ut minus voluptatem a debitis.",
+    "type": "accessory",
+    "image": "https://via.placeholder.com/800x600.png/00dd77?text=fish+rem",
+    "price": 104,
+    "created_at": "2021-10-26T19:02:14.000000Z",
+    "updated_at": "2021-10-26T19:02:14.000000Z"
+  }
+]

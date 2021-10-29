@@ -21,6 +21,7 @@ Create and design a online store for a fishing supply company.
 Could Have's
 - Google Image api calls for images
 - Google translate api calls for latin text
+- Filter products
 
 ## Requirements
 ### for all paths
